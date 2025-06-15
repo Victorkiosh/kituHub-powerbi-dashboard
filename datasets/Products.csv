@@ -1,0 +1,12 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice (KES),CostPerUnit (KES)
+P001,Samsung Galaxy A14,Electronics,Phone,21500,18000
+P002,HP 15 Laptop,Electronics,Laptop,55000,47000
+P003,"LED Smart TV 43""",Electronics,TV,32000,27000
+P004,Foundation & Concealer Kit,Beauty & Personal Care,Makeup,3500,2000
+P005,Moisturizing Face Cream,Beauty & Personal Care,Skincare,2200,1200
+P006,Men’s Slim Fit Jeans,Fashion,Bottoms,2800,1500
+P007,Women’s Ankara Dress,Fashion,Dresses,4500,2800
+P008,"16"" Wooden Bookshelf",Home & Garden,Furniture,6500,4000
+P009,Set of Non-Stick Pans,Home & Garden,Cookware,3800,2400
+P010,Gourmet Kenyan Coffee Pack,Food & Drink,Coffee,1200,700
+P011,Organic Honey 500g Jar,Food & Drink,Grocery,900,500

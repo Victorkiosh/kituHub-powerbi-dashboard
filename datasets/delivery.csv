@@ -1,0 +1,13 @@
+County,Region,DistanceFromNairobiKM,DeliveryFee (KES)
+Nairobi,Nairobi,0,100
+Kiambu,Central,45,120
+Nyeri,Central,150,180
+Mombasa,Coast,480,380
+Machakos,Eastern,65,150
+Meru,Eastern,225,240
+Kisumu,Nyanza,350,320
+Kisii,Nyanza,300,280
+Nakuru,Rift Valley,160,220
+Kericho,Rift Valley,310,290
+Kakamega,Western,370,330
+Bungoma,Western,375,335

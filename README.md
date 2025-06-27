@@ -61,7 +61,6 @@ The dashboard delivers value across business functions:
 
 ## 🖼️ Screenshots
 
-> 📌 Replace these image paths with your actual screenshots inside the `screenshots/` folder
 
 ### Executive Summary  
 ![Executive Summary](screenshots/executive-summary.png)
